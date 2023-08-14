@@ -1,0 +1,16 @@
+.grocery-app {
+  margin: 10px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+h2 {
+  margin: 10px;
+  margin-left: 0px;
+}
+
+input {
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+}
